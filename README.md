@@ -1,4 +1,4 @@
-# 🏊‍♀️ Banco de Dados – Academia e Clínica AquaABC  
+# Banco de Dados – Academia e Clínica AquaABC  
 
 Meu primeiro projeto desenvolvido como **trabalho acadêmico proposto pela faculdade**, passando por todas as etapas da modelagem de banco de dados: **conceitual, lógica e física (SQL)**.    
 
@@ -22,4 +22,5 @@ No início de cada mês, são emitidos os carnês com as mensalidades dos alunos
 - **Oracle APex** para o script SQL
 - **BRWModelo** para a modelagem   
 - **GitHub** para versionamento e portfólio  
+
 
