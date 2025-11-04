@@ -22,6 +22,3 @@ No início de cada mês, são emitidos os carnês com as mensalidades dos alunos
 - **Oracle APex** para o script SQL
 - **BRWModelo ** para a modelagem   
 - **GitHub** para versionamento e portfólio  
-
-É um dos meus primeiros projetos completos, e mostra bem minha evolução na parte de modelo conceitual, logico e fisico.
-
