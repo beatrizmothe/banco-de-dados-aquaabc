@@ -1,11 +1,10 @@
 # 🏊‍♀️ Banco de Dados – Academia e Clínica AquaABC  
 
-Este projeto foi desenvolvido com base em um estudo de caso proposto pela faculdade.  
-A ideia foi criar um sistema para a **Academia e Clínica AquaABC**, controlando alunos, pacientes, professores e fisioterapeutas, passando por todas as etapas da modelagem: **conceitual, lógica e física (SQL)**.  
+Este projeto foi desenvolvido como **trabalho acadêmico proposto pela faculdade**, passando por todas as etapas da modelagem de banco de dados: **conceitual, lógica e física (SQL)**.    
 
 ---
 
-## 🧩 Descrição do Problema  
+## Descrição do Problema  
 
 A AquaABC deseja implantar um sistema para controlar as suas atividades principais, desde a contratação de profissionais (professores de educação física, fisioterapeutas), controle de cadastro dos alunos e pacientes (no caso da fisioterapia) até a emissão de carnês e contracheques.  
 
@@ -20,14 +19,8 @@ No início de cada mês, são emitidos os carnês com as mensalidades dos alunos
 ---
 
 ## ⚙️ Tecnologias e Ferramentas  
-- **Oracle APex**  
-- **BRWModelo ** para a modelagem  
-- **VS Code** para edição do script SQL  
+- **Oracle APex** para o script SQL
+- **BRWModelo ** para a modelagem   
 - **GitHub** para versionamento e portfólio  
 
----
-
-## 💬 Sobre o Projeto  
-
-Esse projeto foi feito com foco em **praticar modelagem de banco de dados** e reforçar conceitos de **chaves primárias, estrangeiras e relacionamento entre entidades**.  
 É um dos meus primeiros projetos completos, e mostra bem minha evolução na parte de modelo conceitual, logico e fisico.
