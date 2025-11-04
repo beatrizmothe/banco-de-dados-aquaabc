@@ -1,6 +1,6 @@
 # 🏊‍♀️ Banco de Dados – Academia e Clínica AquaABC  
 
-Este projeto foi desenvolvido como **trabalho acadêmico proposto pela faculdade**, passando por todas as etapas da modelagem de banco de dados: **conceitual, lógica e física (SQL)**.    
+Meu primeiro projeto desenvolvido como **trabalho acadêmico proposto pela faculdade**, passando por todas as etapas da modelagem de banco de dados: **conceitual, lógica e física (SQL)**.    
 
 ---
 
@@ -24,3 +24,4 @@ No início de cada mês, são emitidos os carnês com as mensalidades dos alunos
 - **GitHub** para versionamento e portfólio  
 
 É um dos meus primeiros projetos completos, e mostra bem minha evolução na parte de modelo conceitual, logico e fisico.
+
