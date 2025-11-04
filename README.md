@@ -20,5 +20,6 @@ No início de cada mês, são emitidos os carnês com as mensalidades dos alunos
 
 ## ⚙️ Tecnologias e Ferramentas  
 - **Oracle APex** para o script SQL
-- **BRWModelo ** para a modelagem   
+- **BRWModelo** para a modelagem   
 - **GitHub** para versionamento e portfólio  
+
